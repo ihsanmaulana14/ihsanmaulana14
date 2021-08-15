@@ -3,7 +3,7 @@
 <p><em>Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Ihsan Maukana](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/ihsan-maulana-192024217)
+[![Linkedin: Ihsan Maukana](https://img.shields.io/badge/-ihsanmaulana14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ihsanmaulana14/)](https://www.linkedin.com/in/ihsanmaulana14)
 [![GitHub ihsanmaulana14](https://img.shields.io/github/followers/yum1k4?label=follow&style=social)](https://github.com/ihsanmaulana14)
 
 
