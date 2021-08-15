@@ -3,8 +3,8 @@
 <p><em>Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Ihsan Maukana](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/yum1k4/)
-[![GitHub ihsanmaulana14](https://img.shields.io/github/followers/yum1k4?label=follow&style=social)](https://github.com/yUm1k4)
+[![Linkedin: Ihsan Maukana](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/ihsan-maulana-192024217)
+[![GitHub ihsanmaulana14](https://img.shields.io/github/followers/yum1k4?label=follow&style=social)](https://github.com/ihsanmaulana14)
 
 
 I'm a Web Developer. Detail-oriented, data, and organized 'Web Developer' with 1+ years of experience in designing and developing dynamic web application/software. Capable of understanding client requirements and translating them into code to add new features or modifications for existing products. Ability to work with the team, and have excellent problem-solving, and interpersonal skills.
