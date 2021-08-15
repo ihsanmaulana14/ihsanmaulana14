@@ -1,6 +1,6 @@
-<h2> Hi, I'm @yUm1k4 or u can call me Zain!</h2>
+<h2> Hi, I'm @ihsanmaulana14 or u can call me Ihsan!</h2>
 
-<p><em>Programmer at <a href="https://www.linkedin.com/company/pt-bangun-kreatif-abadi/">PT. Bangun Kreatif Abadi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Ihsan Maukana](https://img.shields.io/badge/-yum1k4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yum1k4/)](https://www.linkedin.com/in/yum1k4/)
